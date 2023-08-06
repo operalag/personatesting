@@ -1,5 +1,5 @@
 <?php
-$wesbite = "https://raw.githubusercontent.com/";
+$wesbite = "$wesbite = "https://preview.construct.net";
 header("Access-Control-Allow-Origin: ".$wesbite);
 header("Access-Control-Allow-Methods: POST");
 header("Access-Control-Allow-Headers: Content-Type");
